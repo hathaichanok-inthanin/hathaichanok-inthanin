@@ -16,9 +16,5 @@ I am a Software Developer with a strong background in HR and Business Operations
 
 ---
 
-## 🌟 Featured Projects
-- **H-Shop:** A comprehensive e-commerce platform.
-- **Travel-Web:** A responsive travel destination discovery site.
-- **My-Portfolio:** A showcase of my technical journey and projects.
 
-📫 **Reach me at:** [ใส่อีเมลของคุณที่นี่]
+📫 **Reach me at:** ping.inthanin@gmail.com
