@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Hathaichanok Inthanin! 👋
 
-<!--
-**5735512061/5735512061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Developer | Full-stack Enthusiast
+I am a Software Developer with a strong background in HR and Business Operations. This unique blend allows me to build technical solutions with a deep understanding of user needs and organizational workflows.
 
-Here are some ideas to get you started:
+- 🛠️ **Currently focused on:** Laravel, React.js, and Modern Web Technologies.
+- 💼 **Experience:** Transitioning from HR/Operations to Software Engineering.
+- 🎯 **Goal:** Building scalable, user-centric applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+- **Backend:** PHP (Laravel), MySQL
+- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Tools:** Git, GitHub, XAMPP, WordPress
+
+---
+
+## 🌟 Featured Projects
+- **H-Shop:** A comprehensive e-commerce platform.
+- **Travel-Web:** A responsive travel destination discovery site.
+- **My-Portfolio:** A showcase of my technical journey and projects.
+
+📫 **Reach me at:** [ใส่อีเมลของคุณที่นี่]
