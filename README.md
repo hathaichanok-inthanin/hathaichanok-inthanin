@@ -11,7 +11,7 @@ I am a Software Developer with a strong background in HR and Business Operations
 
 ## Tech Stack
 - **Backend:** PHP (Laravel), MySQL
-- **Frontend:** HTML5, CSS3, JavaScript, React.js
+- **Frontend:** HTML5, CSS3, JavaScript
 - **Tools:** Git, GitHub, XAMPP, WordPress
 
 ---
