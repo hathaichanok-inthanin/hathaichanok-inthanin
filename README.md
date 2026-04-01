@@ -28,7 +28,3 @@ I am a dedicated Software Developer specializing in building scalable web applic
 - **Location:** Phuket, Thailand
 
 ---
-
-### 📊 GitHub Stats
-![Hathaichanok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hathaichanok-inthanin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hathaichanok-inthanin&layout=compact&theme=radical)
