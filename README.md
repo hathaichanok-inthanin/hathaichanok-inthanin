@@ -1,20 +1,34 @@
-# Hi, I'm Hathaichanok Inthanin!
+# Hi there, I'm Hathaichanok Inthanin 👋
 
-## Software Developer | Full-stack Enthusiast
-I am a Software Developer with a strong background in HR and Business Operations. This unique blend allows me to build technical solutions with a deep understanding of user needs and organizational workflows.
-
-- **Currently focused on:** Laravel, React.js, and Modern Web Technologies.
-- **Experience:** Transitioning from HR/Operations to Software Engineering.
-- **Goal:** Building scalable, user-centric applications that solve real-world problems.
+### 👨‍💻 Web Developer with 7+ Years of Experience
+I am a dedicated Software Developer specializing in building scalable web applications and complex management systems. My expertise lies in architecting robust solutions that bridge the gap between business needs and technical excellence.
 
 ---
 
-## Tech Stack
-- **Backend:** PHP (Laravel), MySQL
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Tools:** Git, GitHub, XAMPP, WordPress
+### 🛠 My Tech Stack
+
+- **Languages:** PHP, JavaScript, HTML5, CSS3
+- **Frameworks & Libraries:** Laravel, WordPress, Bootstrap 5, jQuery
+- **Currently Learning:** React.js, Next.js, Vite
+- **Databases:** MySQL
+- **Tools:** Git, VS Code
 
 ---
 
+### 🚀 Featured Projects
 
-**Reach me at:** ping.inthanin@gmail.com
+- **E-Commerce & Inventory System:** A custom-built platform for managing high-volume data and real-time stock tracking using Laravel.
+- **Membership & Privilege System:** Architected a secure point-redemption and engagement system for corporate clients.
+- **Internal HR Systems:** Streamlining employee management and organizational workflows.
+
+---
+
+### 📫 Connect with me:
+- **Email:** ping.inthanin@gmail.com
+- **Location:** Phuket, Thailand
+
+---
+
+### 📊 GitHub Stats
+![Hathaichanok's GitHub stats](https://github-readme-stats.vercel.app/api?username=hathaichanok-inthanin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hathaichanok-inthanin&layout=compact&theme=radical)
