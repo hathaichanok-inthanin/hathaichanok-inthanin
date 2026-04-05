@@ -5,6 +5,11 @@ I am a dedicated Software Developer specializing in building scalable web applic
 
 ---
 
+## Key Expertise
+* **Backend:** PHP (Laravel Framework Specialist), MySQL (Database Design & Optimization)
+* **Frontend:** React.js (Currently Learning/Practicing), JavaScript (jQuery), Bootstrap, Responsive Web Design
+* **Business Domains:** Automotive Services, Food & Beverage (F&B), Inventory & Warehouse Management, Human Resources (HRM/Payroll)
+
 ### My Tech Stack
 
 - **Languages:** PHP, JavaScript, HTML5, CSS3
@@ -17,10 +22,17 @@ I am a dedicated Software Developer specializing in building scalable web applic
 
 ### Featured Projects
 
-- **E-Commerce & Inventory System:** A custom-built platform for managing high-volume data and real-time stock tracking using Laravel.
-- **Membership & Privilege System:** Architected a secure point-redemption and engagement system for corporate clients.
-- **Internal HR Systems:** Streamlining employee management and organizational workflows.
+* **[AutoGo](https://github.com/hathaichanok-inthanin/autogo):** E-Commerce & QR Payment for Automotive Services.
+* **[WarehouseEakkarnyangNew](https://github.com/hathaichanok-inthanin/WarehouseEakkarnyangNew):** Smart Inventory & Multi-warehouse Management.
+* **[EdoGroup](https://github.com/hathaichanok-inthanin/EdoGroup):** Enterprise Employee Self-Service & Payroll System.
+* **[Edoplus](https://github.com/hathaichanok-inthanin/edoplus):** Customer Loyalty & Point Accumulation Platform.
 
+---
+
+## Currently Focus
+* Mastering **React.js** for modern frontend development.
+* Enhancing System Security and Performance Optimization.
+  
 ---
 
 ### Connect with me:
