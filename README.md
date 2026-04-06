@@ -32,8 +32,6 @@ I am a dedicated Software Developer specializing in building scalable web applic
 ## Currently Focus
 * Mastering **React.js** for modern frontend development.
 * Enhancing System Security and Performance Optimization.
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hathaichanok-inthanin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hathaichanok-inthanin&layout=compact&theme=radical)
 ---
 
 ### Connect with me:
